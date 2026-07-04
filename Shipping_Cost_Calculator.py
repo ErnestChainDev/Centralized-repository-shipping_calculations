@@ -1,5 +1,4 @@
 # Here is a new update by ErnestChainDev
-# Here is another update by ErnestChainDev
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
